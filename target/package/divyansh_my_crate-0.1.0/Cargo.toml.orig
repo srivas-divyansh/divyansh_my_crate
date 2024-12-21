@@ -1,0 +1,13 @@
+[package]
+name = "divyansh_my_crate"
+version = "0.1.0"
+authors = ["divyansh"]
+edition = "2021"
+
+[dependencies]
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3

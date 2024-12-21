@@ -3,6 +3,8 @@ name = "divyansh_my_crate"
 version = "0.1.0"
 authors = ["divyansh"]
 edition = "2021"
+description = "A testing crate"
+license = "MIT"
 
 [dependencies]
 
